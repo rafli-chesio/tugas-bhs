@@ -1,0 +1,113 @@
+TEKS PROSEDUR KOMPLEKS
+
+
+BAB I: HAKIKAT DAN KONSEP DASAR TEKS PROSEDUR KOMPLEKS
+
+Kehidupan manusia modern bergerak dalam serangkaian sistem yang teratur, terukur, dan penuh dengan aturan pelaksanaan. Setiap aktivitas yang bertujuan untuk menghasilkan luaran tertentu menuntut adanya panduan yang jelas agar proses yang dijalani efisien, aman, dan tepat sasaran. Di dalam kajian bahasa Indonesia, media komunikasi yang memuat serangkaian instruksi kerja tersebut diwadahi dalam genre teks prosedur. Teks prosedur pada hakikatnya merupakan salah satu bentuk teks faktual yang berfungsi memberikan petunjuk sistematis kepada pembaca mengenai cara mengerjakan, mengoperasikan, membuat, atau menyelesaikan suatu aktivitas tertentu melalui urutan langkah yang runtut dan berkesinambungan.
+
+Dalam klasifikasi keilmuan bahasa, teks prosedur tidak hadir dalam bentuk tunggal. Ada variasi tingkat kerumitan yang membedakannya, yaitu teks prosedur sederhana, teks protokol, dan teks prosedur kompleks. Teks prosedur sederhana merujuk pada teks petunjuk yang hanya membutuhkan dua hingga empat langkah penyelesaian yang sangat ringkas dan tidak memuat cabang instruksi bersyarat, seperti cara menyalakan kipas angin atau cara menyeduh teh celup manis. Sementara itu, teks protokol merupakan petunjuk kerja yang langkah-langkahnya bersifat fleksibel dan tidak mutlak harus berurutan secara kaku, asalkan tujuan akhirnya tetap tercapai, misalnya tata cara mencuci muka atau panduan pembersihan ruang kelas.
+
+Teks prosedur kompleks menempati tingkat kerumitan tertinggi karena melibatkan serangkaian tahapan yang panjang, bertingkat, bersyarat, serta kerap memuat sublangkah logis yang harus dipatuhi tanpa boleh ditukar urutannya. Kerumitan ini timbul karena aktivitas yang diatur memiliki konsekuensi hukum, teknis, atau operasional yang tinggi. Ketiadaan ketelitian dalam mengikuti satu langkah saja dapat menggagalkan keseluruhan proses atau menimbulkan risiko kegagalan sistem. Oleh karena itu, teks prosedur kompleks menuntut kejelasan instruksi, presisi kata, serta ketiadaan ambiguitas sehingga siapa pun yang membaca teks tersebut akan sampai pada hasil kerja yang seragam dan sesuai dengan standar yang ditetapkan.
+
+BAB II: FUNGSI SOSIAL, TUJUAN KOMUNIKATIF, DAN SIGNIFIKANSI PRAKTIS
+
+Secara sosiolinguistik, teks prosedur kompleks memegang fungsi sosial yang vital dalam menciptakan keteraturan dan keseragaman tindakan di tengah masyarakat. Tujuan komunikatif utama dari teks ini adalah memandu pembaca agar mampu menuntaskan suatu proses rumit secara runtut, tepat, efisien, dan selamat. Teks ini menjadi jembatan informasi antara pihak perancang sistem atau pembuat kebijakan dengan masyarakat pengguna atau pelaksana teknis.
+
+Dalam ranah birokrasi dan administrasi publik, teks prosedur kompleks berwujud standar operasional prosedur, panduan pengurusan izin mendirikan bangunan, pembuatan paspor elektronik, pengajuan beasiswa, maupun pendaftaran hak kekayaan intelektual. Keberadaan teks ini mencegah terjadinya multitafsir antara aparatur pemerintah dan warga masyarakat, sekaligus menekan potensi maladministrasi karena alur verifikasi berkas, pembayaran retribusi, dan penerbitan izin telah terdokumentasi secara transparan.
+
+Dalam ranah industri, keteknikan, dan sains, teks prosedur kompleks menjadi fondasi keselamatan kerja dan pengendalian mutu. Manual perakitan mesin pabrik, panduan instalasi sistem operasi peladen, protokol sterilisasi laboratorium mikrobiologi, hingga petunjuk penanganan limbah berbahaya dan beracun seluruhnya disusun dengan paradigma teks prosedur kompleks. Di sektor ini, teks prosedur bukan sekadar pedoman bacaan, melainkan dokumen legal dan operasional yang menjamin setiap pekerja mematuhi parameter keselamatan. Ketepatan dalam merumuskan instruksi menentukan kelancaran rantai pasok dan keselamatan jiwa tenaga kerja.
+
+BAB III: STRUKTUR PEMBANGUN TAHAPAN TEKS PROSEDUR KOMPLEKS
+
+Struktur pembangun teks prosedur kompleks dirancang secara sistematis untuk memudahkan pembaca memahami gambaran besar kegiatan sebelum masuk ke rincian teknis pelaksanaan. Ada lima komponen struktural utama yang menyusun teks ini secara utuh.
+
+Bagian pertama adalah judul. Judul dalam teks prosedur kompleks tidak boleh ambigu atau sekadar metaforis. Judul harus merepresentasikan tujuan akhir atau aktivitas yang akan dilakukan secara jelas, lugas, dan ringkas. Penggunaan kata depan atau bentuk verba seperti Cara Mengajukan, Petunjuk Teknis Perakitan, atau Panduan Operasional sering digunakan untuk menegaskan sifat praktis dokumen.
+
+Bagian kedua adalah tujuan atau pernyataan umum. Bagian pengantar ini menguraikan latar belakang perlunya aktivitas tersebut dilakukan, manfaat yang akan diperoleh, serta gambaran umum luaran yang diharapkan. Di dalam teks formal, pengantar juga menyertakan sasaran pengguna teks, batasan ruang lingkup, serta landasan hukum atau standar baku yang menjadi acuan kegiatan tersebut.
+
+Bagian ketiga adalah material, alat, dan bahan. Bagian ini merinci segala sarana prasarana, perangkat keras, perangkat lunak, instrumen administrasi, maupun dokumen identitas yang wajib disiapkan sebelum melangkah ke tahap pelaksanaan. Perincian ini harus disertai ukuran, spesifikasi teknis, atau jumlah kuantitatif yang jelas agar pelaksana tidak mengalami hambatan di tengah perjalanan kerja akibat kekurangan sarana.
+
+Bagian keempat adalah langkah-langkah atau tahapan kerja. Ini merupakan inti terpenting dari teks prosedur kompleks. Tahapan kerja disusun secara kronologis dari awal hingga akhir. Yang membedakan teks ini dari prosedur sederhana adalah kehadiran kondisi bersyarat atau percabangan alur logika. Sebagai contoh, sebuah langkah dapat memuat alternatif tindakan jika sebuah syarat belum terpenuhi, seperti instruksi apa yang harus diambil apabila dokumen verifikasi dinyatakan tidak absah atau indikator mesin menunjukkan tekanan berlebih. Setiap langkah umumnya dipecah menjadi beberapa sublangkah terperinci demi menjaga ketepatan eksekusi.
+
+Bagian kelima adalah penegasan ulang atau penutup. Bagian ini tidak mutlak ada pada semua jenis teks teknis murni, tetapi pada teks prosedur kompleks yang komprehensif, penutup memuat simpulan, evaluasi keberhasilan proses, rambu-rambu pemeliharaan berkala, atau ucapan selamat atas keberhasilan pembaca menuntaskan keseluruhan rangkaian kegiatan. Bagian ini memberikan penegasan bahwa jika seluruh langkah dijalankan sesuai ketentuan, hasil akhir yang diharapkan niscaya terwujud secara optimal.
+
+BAB IV: KAIDAH KEBAHASAAN YANG MENDOMINASI TEKS PROSEDUR KOMPLEKS
+
+Karakteristik kebahasaan teks prosedur kompleks dirancang untuk menghasilkan instruksi yang tegas, lugas, dan bebas dari interpretasi ganda. Terdapat beberapa unsur kebahasaan utama yang selalu mendominasi teks ini.
+
+Ciri pertama adalah penggunaan verba imperatif atau kata kerja perintah. Kalimat instruksi banyak memanfaatkan verba dengan imbuhan kan, i, serta partikel lah, seperti serahkanlah, pastikan, telitilah, hubungkan, dan masukkan. Kalimat imperatif berfungsi mengarahkan subjek untuk segera mengambil tindakan konkret tanpa keraguan.
+
+Ciri kedua adalah dominasi verba material dan verba tingkah laku. Verba material merujuk pada tindakan fisik yang dapat diamati secara panca indra, seperti mengunggah dokumen, memutar poros roda searah jarum jam, menekan tombol daya, atau mengaduk larutan secara merata. Sebaliknya, verba tingkah laku mengacu pada tindakan batin atau respon pemahaman yang diambil berdasarkan pertimbangan situasi, seperti memahami ketentuan, mempertimbangkan risiko, atau menyetujui persyaratan lisensi.
+
+Ciri ketiga adalah pelibatan partisipan manusia secara umum atau pihak ketiga fungsional. Teks prosedur kompleks jarang menggunakan kata ganti orang pertama tunggal seperti saya atau aku. Teks ini memilih penggunaan kata partisipan umum seperti pemohon, pengguna, operator, teknisi, peserta, atau pembaca. Pendekatan ini menjaga sifat objektif dan universal dari pedoman yang diberikan.
+
+Ciri keempat adalah penggunaan konjungsi temporal dan penomoran urutan logis. Keterkaitan antarinstruksi diikat dengan kata penghubung waktu seperti setelah itu, selanjutnya, kemudian, sebelum melakukan hal tersebut, dan sesudah tahapan verifikasi selesai. Penggunaan konjungsi temporal ini menata hierarki tindakan agar tidak terjadi lompatan logika yang dapat membingungkan pelaksana.
+
+Ciri kelima adalah keberadaan kalimat deklaratif dan kalimat interogatif bersyarat. Kalimat deklaratif berfungsi memberikan informasi pendukung, latar belakang aturan, atau peringatan keselamatan sebelum suatu tindakan dieksekusi. Sementara itu, kalimat interogatif bersyarat sering disisipkan pada alur penentuan keputusan, misalnya pertanyaan apakah lampu indikator hijau sudah menyala, yang kemudian diikuti arahan cabang untuk jawaban ya atau tidak.
+
+Ciri keenam adalah pemakaian keterangan cara, keterangan alat, dan keterangan tujuan secara mendalam. Keterangan cara menjelaskan bagaimana suatu tindakan harus dilakukan dengan presisi, misalnya secara perlahan-lahan atau dengan sudut kemiringan empat puluh lima derajat. Keterangan alat mempertegas instrumen spesifik yang wajib dipakai, seperti menggunakan kunci torsi digital. Keterangan tujuan menjelaskan orientasi dari tindakan tersebut, seperti agar cairan pendingin tidak meluap ke area perkabelan.
+
+BAB V: METODOLOGI PERANCANGAN DAN PENULISAN TEKS PROSEDUR KOMPLEKS
+
+Penyusunan teks prosedur kompleks tidak dapat dilakukan secara serampangan. Diperlukan metodologi riset, perancangan, pengujian, dan penyuntingan yang ketat agar teks yang dihasilkan benar-benar aplikatif dan aman digunakan oleh masyarakat umum.
+
+Tahap awal adalah analisis kebutuhan dan identifikasi topik sasaran. Penulis harus memetakan secara jelas tujuan apa yang ingin dicapai, siapa profil pembaca yang menjadi target utama, serta sejauh mana tingkat pemahaman teknis pembaca tersebut. Perbedaan target pembaca menentukan pilihan kosakata; manual untuk teknisi profesional dapat memuat jargon teknis mendalam, sedangkan panduan administrasi warga desa wajib memakai bahasa Indonesia baku yang sederhana dan mudah dicerna.
+
+Tahap kedua adalah pengumpulan data dan verifikasi urutan operasional. Penulis wajib mengamati secara langsung praktik kerja yang akan diubah menjadi teks, mengkaji regulasi hukum yang mendasarinya, serta mewawancarai tenaga ahli yang berpengalaman dalam bidang tersebut. Seluruh urutan tindakan dari langkah pertama hingga langkah penyelesaian dicatat tanpa ada rantai tahapan yang terlewat.
+
+Tahap ketiga adalah penyusunan bagan alur kerja atau kerangka karangan. Penulis menyusun alur berpikir dari garis awal menuju garis akhir, termasuk memetakan titik-titik percabangan. Pada fase ini ditentukan di mana letak syarat administratif, dokumen apa saja yang memicu penolakan, dan mekanisme perbaikan berkas jika terjadi galat.
+
+Tahap keempat adalah penulisan draf dengan menerapkan struktur dan kaidah kebahasaan baku. Setiap kalimat ditulis menggunakan struktur subjek, predikat, objek, dan keterangan yang jelas. Pilihan kata kerja dibuat spesifik. Hindari instruksi yang bernada ambigu seperti tambahkan secukupnya jika dalam konteks industri takaran tersebut harus terukur dalam satuan gram atau mililiter.
+
+Tahap kelima adalah uji kelayakan dan simulasi lapangan. Naskah yang telah ditulis diujicobakan kepada pengguna awam yang belum pernah melakukan prosedur tersebut sebelumnya. Penulis mengamati apakah pengguna dapat menuntaskan tugas tanpa bertanya, bagian mana yang memicu keraguan, serta apakah ada langkah yang terbalik. Catatan dari simulasi ini dijadikan dasar perbaikan.
+
+Tahap terakhir adalah penyuntingan tata bahasa, ejaan, dan keterbacaan. Naskah diperiksa ulang kesesuaiannya dengan Pedoman Umum Ejaan Bahasa Indonesia dan standar istilah resmi. Tanda baca, penomoran, serta keterpaduan antarkalimat disempurnakan hingga naskah menjadi dokumen panduan yang benar-benar siap diterbitkan.
+
+BAB VI: ANALISIS KESALAHAN UMUM PENYUSUNAN DAN SOLUSI PERBAIKANNYA
+
+Dalam praktik penyusunan teks prosedur kompleks, sering dijumpai berbagai kesalahan mendasar yang menurunkan kualitas keterbacaan dan fungsionalitas teks. Analisis atas kesalahan-kesalahan tersebut menjadi penting sebagai rambu pencegahan.
+
+Kesalahan pertama yang sering muncul adalah lompatan instruksi yang tidak logis atau adanya langkah tersembunyi. Penulis sering kali berasumsi bahwa pembaca telah mengetahui tindakan dasar tertentu, sehingga sengaja tidak mencantumkannya dalam naskah. Akibatnya, pembaca pemula mengalami kebingungan karena sistem menolak proses akibat ada dokumen prasyarat yang belum diurus sebelumnya. Solusi atas kendala ini adalah penyusunan daftar inventarisasi prasyarat mutlak di bagian awal teks dan pemeriksaan keterhubungan kausalitas antarlangkah secara menyeluruh.
+
+Kesalahan kedua adalah penggunaan bahasa yang ambigu, bertele-tele, atau bermakna ganda. Kalimat yang terlalu panjang dengan klausa bertingkat yang tidak tertata sering menyamarkan fokus perintah utama. Sebagai contoh, arahan yang menyatakan bahwa pemohon dapat mendatangi loket jika merasa perlu memberikan ketidakpastian. Kalimat tersebut harus diperbaiki menjadi bentuk imperatif tegas: Pemohon wajib mendatangi Loket Tiga untuk memvalidasi berkas fisik apabila notifikasi pada aplikasi ponsel berstatus butuh verifikasi manual.
+
+Kesalahan ketiga adalah pengabaian terhadap alur percabangan bersyarat. Sebagian teks prosedur kompleks ditulis datar seolah-olah seluruh proses selalu berjalan normal tanpa hambatan. Ketika terjadi galat, penolakan sistem, atau perbedaan jenis data pemohon, teks tidak memberikan jalan keluar. Solusinya adalah menyisipkan klausul kondisi dengan pola kalimat pengandaian jika atau apabila yang diikuti instruksi pemecahan masalah secara spesifik.
+
+Kesalahan keempat adalah ketidakkonsistenan istilah teknis. Penulis kerap berganti-ganti kata untuk menyebut entitas yang sama, misalnya menggunakan kata rekening bank, akun tabungan, dan nomor simpanan secara bergantian dalam satu dokumen. Hal ini dapat menimbulkan salah persepsi bahwa pembaca harus menyiapkan beberapa hal berbeda. Solusinya adalah penetapan glosarium kata baku sejak awal dan mempertahankan konsistensi peristilahan dari awal hingga akhir dokumen.
+
+BAB VII: STUDI KASUS DAN IMPLEMENTASI PROSEDUR ADMINISTRASI PUBLIK
+
+Sebagai gambaran nyata penerapan seluruh konsep di atas, berikut disajikan rekonstruksi deskriptif alur prosedur pengurusan sertifikasi kecakapan digital bagi pelaku usaha rintisan.
+
+Judul: Panduan Terpadu Pendaftaran dan Uji Sertifikasi Kompetensi Digital bagi Pelaku Usaha Mikro dan Kecil
+
+Tujuan:
+Program sertifikasi kompetensi digital dirancang oleh lembaga sertifikasi profesi independen untuk menjamin standardisasi literasi digital, pengelolaan data transaksi, dan keamanan informasi bagi para wirausahawan pemula. Memperoleh sertifikasi resmi ini membuka akses terhadap fasilitas pendanaan pemerintah serta memperkuat kepercayaan mitra bisnis dalam ekosistem perdagangan elektronik nasional. Panduan terpadu ini disusun secara komprehensif untuk memandu para pemohon agar mampu menempuh tahapan registrasi daring, verifikasi portofolio usaha, asesmen mandiri, hingga pelaksanaan uji kelayakan secara tertib dan berhasil.
+
+Alat dan Bahan yang Harus Dipersiapkan:
+Sebelum memulai proses pendaftaran, pemohon wajib memastikan ketersediaan perangkat dan berkas administrasi digital sebagai berikut:
+Pertama, kartu tanda penduduk elektronik asli yang telah dipindai dengan format dokumen portabel berukuran paling besar satu megabita.
+Kedua, nomor induk berusaha yang diterbitkan oleh sistem perizinan berusaha terintegrasi secara elektronik dalam bentuk berkas digital yang masih berlaku.
+Ketiga, laporan ringkas rekam jejak transaksi penjualan daring sekurang-kurangnya selama tiga bulan terakhir yang disimpan dalam format lembar sebar atau dokumen digital.
+Keempat, seperangkat komputer jinjing atau komputer meja yang dilengkapi dengan kamera web berfungsi normal, mikrofon aktif, peramban internet versi mutakhir, serta koneksi internet dengan kecepatan unduh minimal lima megabit per detik untuk keperluan asesmen jarak jauh.
+Kelima, alamat pos elektronik resmi yang aktif dan nomor telepon seluler yang terhubung dengan aplikasi pengiriman pesan cepat untuk penerimaan kode verifikasi keamanan dua langkah.
+
+Tahapan dan Langkah-Langkah Pelaksanaan:
+
+Tahap Pertama: Pendaftaran Akun Pengguna pada Portal Resmi
+Pemohon mengarahkan peramban internet menuju portal pendaftaran sertifikasi resmi yang telah ditentukan. Pada halaman beranda, tekan tombol bertuliskan Daftar Akun Baru. Masukkan alamat pos elektronik dan buat kata sandi yang memuat sekurang-kurangnya delapan karakter dengan kombinasi huruf besar, huruf kecil, angka, dan karakter khusus. Sistem secara otomatis akan mengirimkan tautan aktivasi ke pos elektronik yang didaftarkan. Pemohon wajib membuka pos elektronik tersebut dan menekan tautan verifikasi paling lambat dalam waktu tiga puluh menit sejak pendaftaran dilakukan. Jika dalam rentang waktu tersebut tautan tidak dibuka, pendaftaran dinyatakan kedaluwarsa dan pemohon harus mengulang prosedur pembuatan akun dari awal.
+
+Tahap Kedua: Pengisian Formulir Data Diri dan Unggah Berkas Persyaratan
+Setelah akun berhasil diaktifkan, masuklah kembali ke portal menggunakan pos elektronik dan kata sandi yang telah disahkan. Pilih menu Formulir Sertifikasi Bidang Pemasaran dan Keamanan Data. Isilah seluruh kolom data identitas pribadi sesuai dengan data kartu tanda penduduk elektronik tanpa ada kesalahan ejaan nama maupun nomor induk kependudukan. Lanjutkan dengan melengkapi profil usaha yang mencakup nama badan usaha, bidang komoditas, domisili operasional, dan lama usaha berjalan. Unggah pindaian kartu tanda penduduk, nomor induk berusaha, serta dokumen rekam jejak transaksi pada kolom yang disediakan. Pastikan tulisan dan angka pada setiap dokumen yang diunggah terbaca dengan sangat jelas dan tidak buram. Klik tombol Simpan dan Lanjutkan untuk mengirimkan berkas menuju sistem verifikasi otomatis.
+
+Tahap Ketiga: Verifikasi Dokumen dan Penanganan Kendala Administratif
+Pada tahapan ini, sistem verifikator internal akan memeriksa keabsahan seluruh berkas dalam jangka waktu maksimal dua hari kerja. Pemohon dipersilakan memantau perkembangan proses verifikasi melalui dasbor utama akun masing-masing. Apabila seluruh berkas dinyatakan valid, status akun akan berubah menjadi Menunggu Jadwal Asesmen dan pemohon langsung diarahkan ke tahap keempat. Namun, jika dokumen dinyatakan tidak lengkap atau buram, status akan berubah menjadi Perbaikan Berkas. Pada kondisi kedua ini, pemohon wajib membaca catatan penolakan dari verifikator, memperbaiki dokumen yang bermasalah, dan mengunggahnya kembali dalam waktu maksimal tiga hari kerja sejak notifikasi perbaikan diterbitkan. Keterlambatan mengunggah berkas perbaikan menyebabkan permohonan dibatalkan secara permanen oleh sistem.
+
+Tahap Keempat: Pelaksanaan Asesmen Mandiri Prasyarat Uji
+Setelah berkas terverifikasi penuh, pemohon diwajibkan menyelesaikan asesmen mandiri berupa kuesioner instrumen uji kompetensi sebanyak tiga puluh butir pernyataan. Kuesioner ini mengukur sejauh mana pemohon menguasai prinsip dasar interaksi digital, perlindungan data pribadi konsumen, dan etika transaksi daring. Bacalah setiap pernyataan secara cermat. Berikan tanda centang pada opsi Kompeten jika Anda merasa telah menguasai dan mempraktikkan keterampilan tersebut dalam kegiatan usaha sehari-hari, atau centang opsi Belum Kompeten jika Anda merasa belum memahaminya. Jika hasil asesmen mandiri menunjukkan pemohon memenuhi sekurang-kurangnya delapan puluh persen standar kecakapan, tombol pemilihan jadwal uji kompetensi tatap layar akan aktif secara otomatis. Jika di bawah batas tersebut, pemohon diwajibkan mengunduh dan mempelajari modul materi tambahan selama dua hari sebelum diperkenankan mengulang kuesioner asesmen mandiri.
+
+Tahap Kelima: Pelaksanaan Uji Kompetensi Jarak Jauh
+Pilihlah salah satu sesi jadwal uji kompetensi yang tersedia pada kalender sistem. Pada hari pelaksanaan uji, pemohon wajib bersiap di depan komputer tiga puluh menit sebelum waktu yang dijadwalkan. Pastikan ruangan uji dalam kondisi tenang, terang, dan tidak ada orang lain di dalam ruangan untuk menjaga integritas pengujian. Nyalakan kamera web dan mikrofon selama proses pengujian berlangsung. Penguji kompetensi akan memandu sesi wawancara berbasis bukti portofolio dan memberikan studi kasus praktis penyelesaian insiden transaksi digital. Jawablah setiap pertanyaan asesor secara lugas, tenang, dan didukung dengan bukti konkret dari praktik usaha yang selama ini telah dijalankan.
+
+Penutup:
+Setelah seluruh tahapan uji kompetensi jarak jauh diselesaikan, asesor akan memvalidasi hasil penilaian akhir dalam waktu tiga hari kerja. Pemohon yang dinyatakan memenuhi seluruh indikator kompetensi akan menerima pemberitahuan resmi untuk mengunduh sertifikat digital berkeabsahan hukum yang memuat kode respon cepat unik. Simpanlah salinan digital tersebut dengan aman dan cetaklah pada media berstandar resmi sebagai portofolio usaha. Apabila pemohon dinyatakan belum kompeten, sistem memberikan kesempatan satu kali untuk mengikuti uji remediasi pada jadwal gelombang berikutnya tanpa perlu mengulang proses pengunggahan berkas administrasi dari awal. Keberhasilan dalam mematuhi serangkaian tahapan ini menjadi wujud nyata komitmen profesionalisme pelaku usaha dalam menyongsong transformasi ekonomi digital yang kompetitif dan berintegritas.
