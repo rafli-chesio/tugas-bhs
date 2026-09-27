@@ -71,6 +71,29 @@ def ambil_konten(filepath):
             return f"Terjadi kendala saat membaca materi: {e}"
     return "Berkas materi tidak ditemukan."
 
+def cari_jawaban_dari_database(pertanyaan, daftar_materi):
+    """Mencari berkas materi di folder database yang cocok dengan pertanyaan."""
+    pertanyaan_lower = pertanyaan.lower()
+    materi_cocok = []
+
+    for item in daftar_materi:
+        nama_materi = item["nama"].lower()
+        # Ambil kata kunci dari nama materi (mengabaikan kata pendek)
+        kata_kunci = [w for w in nama_materi.split() if len(w) > 2]
+        if any(k in pertanyaan_lower for k in kata_kunci):
+            materi_cocok.append(item)
+
+    if materi_cocok:
+        hasil = []
+        for m in materi_cocok[:2]:  # Ambil maksimal 2 materi paling relevan
+            konten = ambil_konten(m["path"])
+            hasil.append(f"📌 **Materi Terkait: {m['nama']}**\n\n{konten}")
+        return "\n\n---\n\n".join(hasil)
+    else:
+        return (
+            "Maaf, materi yang sesuai dengan pertanyaan tersebut tidak ditemukan di basis data. "
+            "Pastikan Anda mencantumkan nama topik/materi secara spesifik (contoh: *Artikel Opini*, *Morfologi*, *Sintaksis*)."
+        )
 
 # ----------------- PERTANYAAN & PANDUAN DINAMIS -----------------
 def buat_pertanyaan_kerap_muncul(daftar_materi):
@@ -596,12 +619,12 @@ pertanyaan_user = st.text_area(
 
 col_aksi1, col_aksi2 = st.columns([3, 1])
 with col_aksi1:
-    if st.button("➤ AJUKAN SEKARANG"):
-        if pertanyaan_user.strip():
-            with st.spinner("🌸 AI Tutor Naima H sedang menelaah basis data materi Anda..."):
-                st.session_state.jawaban_tutor = f"Uraian untuk topik kajian: \"{pertanyaan_user}\"\n\nSistem telah menganalisis materi aktif dari basis data Anda untuk memaparkan penjabaran yang relevan."
-        else:
-            st.warning("Silakan tuliskan pertanyaan terlebih dahulu ya! 💕")
+   if st.button("➤ AJUKAN SEKARANG"):
+    if pertanyaan_user.strip():
+        with st.spinner("🌸 AI Tutor Naima H sedang menelaah basis data materi Anda..."):
+            st.session_state.jawaban_tutor = cari_jawaban_dari_database(pertanyaan_user, materi_aktif)
+    else:
+        st.warning("Silakan tuliskan pertanyaan terlebih dahulu ya! 💕")
 
 with col_aksi2:
     if st.button("🔄 Bersihkan"):
